@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+/*
 class Tree {
     private List<TreeLeaf> leafs;
     private List<TreeNode> node;
@@ -36,8 +37,7 @@ class TreeLeaf {
 class Arestas{
     private Integer noA;
     private Integer noB;
-    
-    public Arestas
+
 }
 
 class TreeNode {
@@ -107,7 +107,7 @@ public class Solution {
         
         
         //4) proximas n-1 linhas arestas entre os nos
-        List<Integer,Integer> arestas = new ArrayList<>()
+        List<Integer,Integer> arestas = new ArrayList<>();
         String[] arestas_str = new String[n-1];
         int contador = 0;
         while(s.hasNext()){
@@ -126,3 +126,6 @@ public class Solution {
        
     }
 }
+
+
+ */
